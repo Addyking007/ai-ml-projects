@@ -6,11 +6,12 @@ This repository contains projects that demonstrate my skills in **Data Analytics
 ---
 
 ## 🔹 Projects Included
-- **SQL Data Cleaning** – Real-world data preprocessing and transformation  
-- **Sales Analysis (Power BI)** – Interactive dashboard with insights  
-- **Customer Churn Prediction (ML)** – Classification model using scikit-learn  
-- **Stock Price Prediction (LSTM)** – Deep learning project with TensorFlow  
-- **Emotion Detection (CNN)** – Image classification using convolutional neural networks  
+- [SQL Data Cleaning](https://github.com/Addyking007/sql-data-cleaning) – Real-world data preprocessing and transformation
+- Sales Analysis (Power BI) – Interactive dashboard with insights
+- Customer Churn Prediction (ML) – Classification model using scikit-learn
+- Stock Price Prediction (LSTM) – Deep learning project with TensorFlow
+- Emotion Detection (CNN) – Image classification using convolutional neural networks
+ 
 
 ---
 
